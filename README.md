@@ -1,6 +1,6 @@
 # Subspace.money — Product Teardown
 
-**Vocallabs.ai Product Intern Assignment · May 2026**
+**Vocallabs.ai Product Intern Assignment  
 
 ---
 
@@ -58,4 +58,4 @@ Frameworks applied include **SWOT**, **Porter's Five Forces**, and **7Ps** where
 - **Applicant:** Lukesh Pawar
 - **Assignment:** Vocallabs.ai Product Intern 2026
 - **Company chosen:** Subspace.money
-- **Deadline:** Sunday, 31 May 2026, 11:59 PM IST
+ 
